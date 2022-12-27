@@ -4,6 +4,9 @@
 
 It's an easy-understand example for `Isar` database. You can access the data with sync and async operation. And the exciting part is the inspector tool that is cool and useful.
 
+## Article
+[輕鬆了解 Isar NoSQL DB，用它來實作 Flutter 資料庫吧！](https://medium.com/@yiichenhi/輕鬆了解-isar-nosql-db-用它來實作-flutter-資料庫吧-ef5285b3b921)
+
 ## Contribute
 - You can star and share with other developers if you feel good and learn something from this repository.
 - If you have some ideas, please discuss them with me or commit PR.
